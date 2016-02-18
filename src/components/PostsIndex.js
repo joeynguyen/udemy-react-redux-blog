@@ -11,7 +11,7 @@ class PostsIndex extends Component {
     return (
       <div>
         <div className="text-xs-right">
-          <Link to="posts/new" className="btn btn-primary">
+          <Link to="/posts/new" className="btn btn-primary">
             Add a Post
           </Link>
         </div>
